@@ -1,7 +1,19 @@
 # Predators-PSVita-Port
 Credit to Mobstudios for making the game.
 Credit to ShadowOsmium for decompiling the game.
+
 <img width="2404" height="1434" alt="predscreen" src="https://github.com/user-attachments/assets/7ba434b3-5974-4ab4-b9ee-728a1d3d8d30" />
+
+## Controls
+cross - Attack/Select for mouse
+square - Grab
+circle - I forgot
+triangle - I forgot
+start - Pause
+Left Stick - Move Character
+Right Stick - Move Mouse
+L - Change Melee
+R - Change Ranged
 
 ## Installation
 
